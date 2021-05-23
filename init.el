@@ -77,7 +77,7 @@
 (require 'init-darcs)
 (require 'init-git)
 (require 'init-github)
-
+(require 'init-toc-org-mode)
 (require 'init-projectile)
 
 (require 'init-compile)
